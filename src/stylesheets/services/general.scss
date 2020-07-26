@@ -1,0 +1,10 @@
+* {
+    box-sizing: border-box;
+    letter-spacing: 0.2px;
+    word-break: keep-all;
+}
+
+
+body{
+    @extend .block_bg;
+}
